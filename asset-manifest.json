@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/badtrip_radio_live/static/css/main.073c9b0a.css",
-    "main.js": "/badtrip_radio_live/static/js/main.e4c19a1e.js",
+    "main.js": "/badtrip_radio_live/static/js/main.4287d2bd.js",
     "static/js/787.f30f2afe.chunk.js": "/badtrip_radio_live/static/js/787.f30f2afe.chunk.js",
     "static/media/logo.svg": "/badtrip_radio_live/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/pause.svg": "/badtrip_radio_live/static/media/pause.c1d6674583d53a5a4a7880713d6ccfb3.svg",
     "index.html": "/badtrip_radio_live/index.html",
+    "static/media/next.svg": "/badtrip_radio_live/static/media/next.d24dde1f3c1c9b1db7333697ce0ea440.svg",
+    "static/media/play.svg": "/badtrip_radio_live/static/media/play.d24dde1f3c1c9b1db7333697ce0ea440.svg",
+    "static/media/prev.svg": "/badtrip_radio_live/static/media/prev.d24dde1f3c1c9b1db7333697ce0ea440.svg",
     "main.073c9b0a.css.map": "/badtrip_radio_live/static/css/main.073c9b0a.css.map",
-    "main.e4c19a1e.js.map": "/badtrip_radio_live/static/js/main.e4c19a1e.js.map",
+    "main.4287d2bd.js.map": "/badtrip_radio_live/static/js/main.4287d2bd.js.map",
     "787.f30f2afe.chunk.js.map": "/badtrip_radio_live/static/js/787.f30f2afe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e4c19a1e.js"
+    "static/js/main.4287d2bd.js"
   ]
 }
